@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Priya Singh!</h1>
 
 <p align="center">
-  <i>B.Tech CSE Student • Full-Stack Builder</i>
+  <i>CSE Student • Full-Stack Builder</i>
 </p>
 
 ---
