@@ -45,18 +45,6 @@ A voice-enabled platform designed to help small shopkeepers manage transactions,
 
 ---
 
-## 📊 GitHub Statistics
-
-\<div align="center">
-
-\<img src="[https://github-readme-stats.vercel.app/api?username=preeyasingh18&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=preeyasingh18\&show_icons=true\&theme=tokyonight\&hide_border=true)" width="49%"/>
-
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=preeyasingh18&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=preeyasingh18\&layout=compact\&theme=tokyonight\&hide_border=true)" width="49%"/>
-
-\</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 - Flipkart GRID 8.0 – Round 1 Qualified.
@@ -68,9 +56,6 @@ A voice-enabled platform designed to help small shopkeepers manage transactions,
 ---
 
 ## 🤝 Let's Connect
-
-\
-
 
 ---
 
